@@ -1,0 +1,590 @@
+fileFormatVersion: 2
+guid: 30421058c281e174599975eb7497265c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SpriteSheetHumoVenenoso_0
+  - first:
+      213: 21300002
+    second: SpriteSheetHumoVenenoso_1
+  - first:
+      213: 21300004
+    second: SpriteSheetHumoVenenoso_2
+  - first:
+      213: 21300006
+    second: SpriteSheetHumoVenenoso_3
+  - first:
+      213: 21300008
+    second: SpriteSheetHumoVenenoso_4
+  - first:
+      213: 21300010
+    second: SpriteSheetHumoVenenoso_5
+  - first:
+      213: 21300012
+    second: SpriteSheetHumoVenenoso_6
+  - first:
+      213: 21300014
+    second: SpriteSheetHumoVenenoso_7
+  - first:
+      213: 21300016
+    second: SpriteSheetHumoVenenoso_8
+  - first:
+      213: 21300018
+    second: SpriteSheetHumoVenenoso_9
+  - first:
+      213: 21300020
+    second: SpriteSheetHumoVenenoso_10
+  - first:
+      213: 21300022
+    second: SpriteSheetHumoVenenoso_11
+  - first:
+      213: 21300024
+    second: SpriteSheetHumoVenenoso_12
+  - first:
+      213: 21300026
+    second: SpriteSheetHumoVenenoso_13
+  - first:
+      213: 21300028
+    second: SpriteSheetHumoVenenoso_14
+  - first:
+      213: 21300030
+    second: SpriteSheetHumoVenenoso_15
+  - first:
+      213: 21300032
+    second: SpriteSheetHumoVenenoso_16
+  - first:
+      213: 21300034
+    second: SpriteSheetHumoVenenoso_17
+  - first:
+      213: 21300036
+    second: SpriteSheetHumoVenenoso_18
+  - first:
+      213: 21300038
+    second: SpriteSheetHumoVenenoso_19
+  - first:
+      213: 21300040
+    second: SpriteSheetHumoVenenoso_20
+  - first:
+      213: 21300042
+    second: SpriteSheetHumoVenenoso_21
+  - first:
+      213: 21300044
+    second: SpriteSheetHumoVenenoso_22
+  - first:
+      213: 21300046
+    second: SpriteSheetHumoVenenoso_23
+  - first:
+      213: 21300048
+    second: SpriteSheetHumoVenenoso_24
+  - first:
+      213: 21300050
+    second: SpriteSheetHumoVenenoso_25
+  - first:
+      213: 21300052
+    second: SpriteSheetHumoVenenoso_26
+  - first:
+      213: 21300054
+    second: SpriteSheetHumoVenenoso_27
+  - first:
+      213: 21300056
+    second: SpriteSheetHumoVenenoso_28
+  - first:
+      213: 21300058
+    second: SpriteSheetHumoVenenoso_29
+  - first:
+      213: 21300060
+    second: SpriteSheetHumoVenenoso_30
+  - first:
+      213: 21300062
+    second: SpriteSheetHumoVenenoso_31
+  - first:
+      213: 21300064
+    second: SpriteSheetHumoVenenoso_32
+  - first:
+      213: 21300066
+    second: SpriteSheetHumoVenenoso_33
+  - first:
+      213: 21300068
+    second: SpriteSheetHumoVenenoso_34
+  - first:
+      213: 21300070
+    second: SpriteSheetHumoVenenoso_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 833
+        width: 608
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ecde06418ef9446b660f68d0a33646
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_1
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 831
+        width: 619
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867046703f4dffd44a582c64608d1bc8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_2
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 831
+        width: 616
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9cdc9fee659404dade130d52fdb55e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_3
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 826
+        width: 612
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e661a6c6b99a7244ead33d34cbb89bf1
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_4
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 831
+        width: 613
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abd40a52edfefc41a4f44a2503c8859
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_5
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 833
+        width: 600
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f3e02dd8d3ac488e4e574b332fda7
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_6
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 444
+        width: 603
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cd6db0b064fa84e9562297bf09f63a
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_8
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 444
+        width: 606
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc85a02abbbe764596552aafaa6a551
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_9
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 444
+        width: 605
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90157c89af63854782409127e08be1d
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 470
+        width: 610
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010c1b9619157ff4c824fd8f21ab7ec5
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_15
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 444
+        width: 607
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b03619cb62011458afd5df675296cc
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_16
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 444
+        width: 608
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a74d20ee57c7b47a56d1f51f0242cc
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 43
+        width: 606
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6996c4a0a0aabb24dbfab295ddc690eb
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_31
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 51
+        width: 605
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bcdc5e88b2ff440b51d7766b689ac9
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_32
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 55
+        width: 601
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eb8c81b3b62cb44bc6453d508ac996
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 43
+        width: 600
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a079d985daef244e9157e8b196b10b8
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_34
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 55
+        width: 605
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea65931a4efa154487e8f6e73202964
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetHumoVenenoso_35
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 43
+        width: 600
+        height: 313
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70435fa5ed8ba6543a90f06298963b62
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 80122b2208efa0d4eb3933d28f5a3029
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
