@@ -12,6 +12,8 @@
 .utmp/
 
 # --- IDEs (Visual Studio, Rider, VS Code) ---
+.vscode/
+.idea/
 .vs/
 .gradle/
 ExportedObj/
@@ -23,6 +25,7 @@ ExportedObj/
 *.tmp
 *.user
 *.userprefs
+*.sln.docstates
 *.pidb
 *.booproj
 *.svd
@@ -32,6 +35,9 @@ ExportedObj/
 *.VC.db
 *.VC.opendb
 [Aa]ssets/Plugins/Editor/JetBrains*
+
+# --- Archivos temporales de compilación de Roslyn/Analizadores ---
+.roslyn/
 
 # --- Sistema Operativo ---
 .DS_Store
